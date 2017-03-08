@@ -1,3 +1,3 @@
-This is a project I am doing for The Odin Projects intro to HTML/CSS. 
+## A project I am doing for The Odin Project's _Intro to HTML/CSS_ 
 
-This project can be viewed on Github Pages https://suavesona.github.io/google-homepage/
+This project can be viewed on  [Github Pages](https://suavesona.github.io/google-homepage/)
